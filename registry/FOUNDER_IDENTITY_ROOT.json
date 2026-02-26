@@ -1,0 +1,19 @@
+{
+  "gid_metadata": {
+    "document_id": "IDA-L1-FOUNDER-ID-001",
+    "version": "1.0.0",
+    "owner": "Prospera Founder"
+  },
+  "identity_vector": {
+    "gid": "GID-F-2026-0001",
+    "role": "SYSTEM_FOUNDER",
+    "authority_level": "L1_SUPREME",
+    "hardware_attestation": "SIMULATED_PHYSICAL_KEY_001",
+    "status": "ACTIVE"
+  },
+  "cryptographic_anchor": {
+    "algorithm": "Ed25519",
+    "public_key": "PROSPERA_ROOT_PUB_KEY_PLACEHOLDER",
+    "issued_at": "2026-02-26T14:15:00Z"
+  }
+}
