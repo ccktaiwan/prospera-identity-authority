@@ -1,0 +1,17 @@
+{
+  "gid_metadata": {
+    "document_id": "IDA-L1-AIW-ID-999",
+    "version": "1.0.0",
+    "owner": "Prospera AI Worker Group"
+  },
+  "identity_vector": {
+    "gid": "GID-AIW-2026-9999",
+    "role": "AI_ENGINEERING_WORKER",
+    "authority_level": "L3_RESTRICTED",
+    "status": "ACTIVE",
+    "permissions": {
+      "esg_write": false,
+      "kernel_mutation": false
+    }
+  }
+}
